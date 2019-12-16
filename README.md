@@ -30,8 +30,11 @@ Her er der billeder billeder af min *Logik Analyzer*
 
 # Funktioner
 ***Init()*** - Funktion der initialiser Pull-up.
+
 ***ColumnScan()*** - Funktion der styre C1-C4 via 4 portbit.
+
 ***ReadRows()*** - Funktion der læse R1-R4 og returner den specifik row.
+
 ***DecodeKeyboard()*** - Funktion som modtager column, row og decoder mine knapper på bestemt koloner og rækker.
 
 Min funktion proprieties ligger ind **keypad.h** filen og mine funktioner ligger ind i **keypad.c** filen.
