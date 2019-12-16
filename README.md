@@ -37,4 +37,6 @@ Her er der billeder billeder af min *Logik Analyzer*
 
 ***DecodeKeyboard()*** - Funktion som modtager column, row og decoder mine knapper på bestemt koloner og rækker.
 
-Min funktion proprieties ligger ind **keypad.h** filen og mine funktioner ligger ind i **keypad.c** filen.
+
+
+Mine funktion proprieties ligger ind **keypad.h** filen og mine funktioner ligger ind i **keypad.c** filen.
