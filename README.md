@@ -3,8 +3,11 @@ MatrixKeypad er en 4x4 keypad som er mest brugt på ATMs.
 
 # Kravspecifikation
 -Programmet skal indeholder det her metoder: Init(); ColumnScan(); ReadRows(); DecodeKeyboard(); 
+
 -Programmet skal kunne udskriver den specifik knap som personen har trykket.
+
 -Der skal bruger Logik Analyzer så viser output portene.
+
 
 ![enter image description here](https://i.imgur.com/rT1wfdz.png)
 
